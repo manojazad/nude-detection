@@ -1,9 +1,9 @@
-package com.indrik.impl;
+package com.manoj.impl;
 
-import com.indrik.detector.SkinRegionDetector;
-import com.indrik.model.SkinRegion;
-import com.indrik.util.labeling.BreadthFirstLabeling;
-import com.indrik.util.labeling.RegionLabeling;
+import com.manoj.detector.SkinRegionDetector;
+import com.manoj.model.SkinRegion;
+import com.manoj.util.labeling.BreadthFirstLabeling;
+import com.manoj.util.labeling.RegionLabeling;
 import ij.ImagePlus;
 import ij.process.ImageProcessor;
 

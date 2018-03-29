@@ -1,6 +1,6 @@
-package com.indrik.util.labeling;
+package com.manoj.util.labeling;
 
-import com.indrik.model.SkinRegion;
+import com.manoj.model.SkinRegion;
 import ij.ImagePlus;
 import ij.process.ColorProcessor;
 import ij.process.FloatProcessor;

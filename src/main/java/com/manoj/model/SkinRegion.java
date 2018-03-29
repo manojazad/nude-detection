@@ -1,4 +1,4 @@
-package com.indrik.model;
+package com.manoj.model;
 
 import java.awt.*;
 import java.awt.geom.Point2D;

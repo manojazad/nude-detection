@@ -1,6 +1,6 @@
-package com.indrik.util.classifier;
+package com.manoj.util.classifier;
 
-import com.indrik.util.ColorUtil;
+import com.manoj.util.ColorUtil;
 
 public class NormalizedRGBClassifier implements SkinColorClassifier {
 

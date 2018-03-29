@@ -1,11 +1,11 @@
-package com.indrik.impl;
+package com.manoj.impl;
 
-import com.indrik.detector.SkinDetector;
-import com.indrik.model.SkinDetectedImage;
-import com.indrik.util.classifier.HSVClassifier;
-import com.indrik.util.classifier.NormalizedRGBClassifier;
-import com.indrik.util.classifier.RGBClassifier;
-import com.indrik.util.classifier.SkinColorClassifier;
+import com.manoj.detector.SkinDetector;
+import com.manoj.model.SkinDetectedImage;
+import com.manoj.util.classifier.HSVClassifier;
+import com.manoj.util.classifier.NormalizedRGBClassifier;
+import com.manoj.util.classifier.RGBClassifier;
+import com.manoj.util.classifier.SkinColorClassifier;
 import ij.ImagePlus;
 import ij.process.ImageProcessor;
 

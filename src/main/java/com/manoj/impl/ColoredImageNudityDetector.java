@@ -1,15 +1,13 @@
-package com.indrik.impl;
+package com.manoj.impl;
 
-import com.indrik.detector.ImageNudityDetector;
-import com.indrik.detector.SkinDetector;
-import com.indrik.detector.SkinRegionDetector;
-import com.indrik.model.SkinDetectedImage;
-import com.indrik.model.SkinRegion;
+import com.manoj.detector.ImageNudityDetector;
+import com.manoj.detector.SkinDetector;
+import com.manoj.detector.SkinRegionDetector;
+import com.manoj.model.SkinDetectedImage;
+import com.manoj.model.SkinRegion;
 import ij.ImagePlus;
 
 import java.awt.*;
-import java.net.MalformedURLException;
-import java.net.URL;
 import java.util.List;
 
 public class ColoredImageNudityDetector implements ImageNudityDetector {

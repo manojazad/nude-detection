@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ae635a5-9233-47e0-8c44-be67dd04c232" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/detector/ImageNudityDetector.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/detector/SkinDetector.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/detector/SkinRegionDetector.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/impl/BinaryImageSkinDetector.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/impl/BinaryImageSkinRegionDetector.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/impl/ColoredImageNudityDetector.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/model/SkinDetectedImage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/model/SkinRegion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/util/ColorUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/util/classifier/HSVClassifier.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/util/classifier/NormalizedRGBClassifier.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/util/classifier/RGBClassifier.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/util/classifier/SkinColorClassifier.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/util/labeling/BreadthFirstLabeling.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/util/labeling/FloodFillLabeling.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/indrik/util/labeling/RegionLabeling.java" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-    </list>
+    <list default="true" id="2ae635a5-9233-47e0-8c44-be67dd04c232" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore/.gitignore">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -194,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/indrik/util/labeling/FloodFillLabeling.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/indrik/impl/ColoredImageNudityDetector.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/indrik/detector/ImageNudityDetector.java" />
+        <option value="$PROJECT_DIR$/.gitignore~inital commit" />
       </list>
     </option>
   </component>
@@ -232,74 +214,6 @@
               <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
               <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
-              <item name=".gitignore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="indrik" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="indrik" type="462c0819:PsiDirectoryNode" />
-              <item name="detector" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="indrik" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="indrik" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="indrik" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="labeling" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -315,7 +229,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
-    <property name="SearchEverywhereHistoryKey" value="git&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/.gitignore/.gitignore&#10;gi&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/.gitignore&#10;giti&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/.gitignore" />
+    <property name="SearchEverywhereHistoryKey" value="pom&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/pom.xml&#10;git&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/.gitignore/.gitignore&#10;gi&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/.gitignore&#10;giti&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/.gitignore" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -504,14 +418,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/model.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -672,6 +578,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore~inital commit">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/detector/ImageNudityDetector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -680,10 +602,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore/.gitignore">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
           <folding />
         </state>
       </provider>

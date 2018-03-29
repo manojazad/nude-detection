@@ -1,6 +1,6 @@
-package com.indrik.detector;
+package com.manoj.detector;
 
-import com.indrik.model.SkinRegion;
+import com.manoj.model.SkinRegion;
 import ij.ImagePlus;
 
 import java.util.List;

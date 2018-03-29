@@ -1,4 +1,4 @@
-package com.indrik.util.classifier;
+package com.manoj.util.classifier;
 
 public interface SkinColorClassifier {
 

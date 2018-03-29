@@ -1,4 +1,4 @@
-package com.indrik.model;
+package com.manoj.model;
 
 import ij.ImagePlus;
 

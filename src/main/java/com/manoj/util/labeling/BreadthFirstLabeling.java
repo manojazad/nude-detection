@@ -1,4 +1,4 @@
-package com.indrik.util.labeling;
+package com.manoj.util.labeling;
 
 import ij.process.ImageProcessor;
 

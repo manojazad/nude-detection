@@ -1,4 +1,4 @@
-package com.indrik.detector;
+package com.manoj.detector;
 
 import java.awt.*;
 

@@ -1,4 +1,4 @@
-package com.indrik.util;
+package com.manoj.util;
 
 import java.awt.Color;
 
