@@ -11,6 +11,7 @@ test-output/
 out/
 
 # Intellij
+.idea/
 *.iml
 *.iws
 
