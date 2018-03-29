@@ -1,0 +1,35 @@
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# Maven
+target/
+bin/
+test-output/
+out/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+#mp3 mp4
+*.mp3
+*.mp4
+*.3gp
+*.null
+*.m4a
+
+#log files
+log/
+*.log
+
+#image thumbnails
+*.png
+src/test/
