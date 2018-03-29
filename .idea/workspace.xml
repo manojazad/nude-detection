@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ae635a5-9233-47e0-8c44-be67dd04c232" name="Default" comment="" />
+    <list default="true" id="2ae635a5-9233-47e0-8c44-be67dd04c232" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__gov_nih_imagej_imagej_1_47.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,10 +24,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="ColoredImageNudityDetector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/impl/ColoredImageNudityDetector.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/impl/ColoredImageNudityDetector.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="82" column="35" lean-forward="false" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+              <caret line="80" column="35" lean-forward="false" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -26,37 +36,37 @@
         </entry>
       </file>
       <file leaf-file-name="ImageNudityDetector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/detector/ImageNudityDetector.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/detector/ImageNudityDetector.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="270">
+              <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SkinDetectedImage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/model/SkinDetectedImage.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="180">
+              <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SkinRegionDetector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/detector/SkinRegionDetector.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/detector/SkinRegionDetector.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
@@ -68,7 +78,7 @@
         </entry>
       </file>
       <file leaf-file-name="BinaryImageSkinRegionDetector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/impl/BinaryImageSkinRegionDetector.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/impl/BinaryImageSkinRegionDetector.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
@@ -80,34 +90,34 @@
         </entry>
       </file>
       <file leaf-file-name="BreadthFirstLabeling.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/util/labeling/BreadthFirstLabeling.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/util/labeling/BreadthFirstLabeling.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="39">
               <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="FloodFillLabeling.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/util/labeling/FloodFillLabeling.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/util/labeling/FloodFillLabeling.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
               <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding>
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="RegionLabeling.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/util/labeling/RegionLabeling.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/util/labeling/RegionLabeling.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
               <caret line="51" column="26" lean-forward="false" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
@@ -119,15 +129,15 @@
         </entry>
       </file>
       <file leaf-file-name="BinaryImageSkinDetector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/impl/BinaryImageSkinDetector.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/impl/BinaryImageSkinDetector.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="217">
               <caret line="45" column="29" lean-forward="false" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#686#707#0" expanded="true" />
-                <element signature="e#747#748#0" expanded="true" />
-                <element signature="e#763#764#0" expanded="true" />
+                <element signature="e#679#700#0" expanded="true" />
+                <element signature="e#740#741#0" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -155,7 +165,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/indrik/ImageNudityDetector.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/indrik/model/SkinDetectedImage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/indrik/detector/SkinDetector.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/indrik/spring/BinaryImageSkinRegionDetector.java" />
@@ -176,6 +185,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/indrik/impl/ColoredImageNudityDetector.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/indrik/detector/ImageNudityDetector.java" />
         <option value="$PROJECT_DIR$/.gitignore~inital commit" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -214,6 +225,32 @@
               <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
               <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nude-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nude-detection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manoj" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -229,7 +266,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
-    <property name="SearchEverywhereHistoryKey" value="pom&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/pom.xml&#10;git&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/.gitignore/.gitignore&#10;gi&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/.gitignore&#10;giti&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/.gitignore" />
+    <property name="SearchEverywhereHistoryKey" value="git&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/.gitignore&#10;pom&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/pom.xml&#10;gi&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/.gitignore&#10;giti&#9;FILE&#9;file:///Users/manojazad/Workplace/dev/personal/nude-detection/.gitignore" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -426,7 +463,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/util/ColorUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/util/ColorUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
@@ -434,7 +471,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/util/classifier/SkinColorClassifier.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/util/classifier/SkinColorClassifier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="36" />
@@ -442,7 +479,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/util/classifier/RGBClassifier.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/util/classifier/RGBClassifier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
@@ -450,7 +487,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/util/classifier/NormalizedRGBClassifier.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/util/classifier/NormalizedRGBClassifier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
@@ -458,7 +495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/util/classifier/HSVClassifier.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/util/classifier/HSVClassifier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
@@ -466,7 +503,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/detector/SkinDetector.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/detector/SkinDetector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="29" />
@@ -474,7 +511,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/model/SkinDetectedImage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/model/SkinDetectedImage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
@@ -482,32 +519,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/impl/BinaryImageSkinDetector.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/impl/BinaryImageSkinDetector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
           <caret line="45" column="29" lean-forward="false" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#686#707#0" expanded="true" />
-            <element signature="e#747#748#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#679#700#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/model/SkinRegion.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/model/SkinRegion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#542#543#0" expanded="false" />
-            <element signature="e#576#577#0" expanded="false" />
+            <element signature="e#541#542#0" expanded="false" />
+            <element signature="e#575#576#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/detector/SkinRegionDetector.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/detector/SkinRegionDetector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
@@ -517,7 +554,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/impl/BinaryImageSkinRegionDetector.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/impl/BinaryImageSkinRegionDetector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
@@ -527,19 +564,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/util/labeling/BreadthFirstLabeling.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/util/labeling/BreadthFirstLabeling.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39">
           <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/util/labeling/RegionLabeling.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/util/labeling/RegionLabeling.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="51" column="26" lean-forward="false" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
@@ -549,32 +586,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/util/labeling/FloodFillLabeling.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/util/labeling/FloodFillLabeling.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/impl/ColoredImageNudityDetector.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/impl/ColoredImageNudityDetector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="82" column="35" lean-forward="false" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+          <caret line="80" column="35" lean-forward="false" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,18 +623,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/indrik/detector/ImageNudityDetector.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/manoj/detector/ImageNudityDetector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="270">
+          <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
           <folding />
         </state>
       </provider>
